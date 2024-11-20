@@ -19,6 +19,10 @@ Welcome to my GitHub! I am a passionate computer science engineering student at 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2300f?style=flat&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300f?style=flat&logo=figma&logoColor=white)
 
+## 🌐 Portfolio
+Check out my personal portfolio to learn more about my projects, skills, and achievements:  
+[**Eya KHALFALLAH's Portfolio**](https://eya-khalfallah.vercel.app/)
+
 ## 👯 Some of my Projects:
 - [CookBook - Recipe Finder](https://github.com/Eya-khalfallah/CookBook) - A MERN stack application to find and share recipes.
 - [Cozy - Cosmetic Products Website](https://github.com/Eya-khalfallah/Cozy) - An e-commerce site for cosmetics with product filtering and account management.
